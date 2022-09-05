@@ -1,0 +1,24 @@
+.counter-wrapper {
+  height: 90vh;
+  margin-top: 150px;
+
+  .counter-title {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+
+  .count {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 1.5em;
+  }
+
+  .count-buttons {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 15px;
+  }
+}
